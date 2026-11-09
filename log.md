@@ -1,4 +1,4 @@
-- when we encounter artifacts, we are encountering the remnants of a single individual's experience of a single point in time in a single place.
+[network_metrics(1).csv](https://github.com/user-attachments/files/34597962/network_metrics.1.csv)- when we encounter artifacts, we are encountering the remnants of a single individual's experience of a single point in time in a single place.
 -  "we do not find evidence of the roman empire, we find evidence of one person's experience of the roman empire" -SG (approximately)
   - calculating the average of a whole bunch of these individual experiences reconstructs the broader environment.
 
@@ -111,8 +111,13 @@ Network Navigator Activity
     - my network doesn't represent sibling, aunt/uncle-niece/nephew, or grandparent-grandchild relationships.
     - i have chosen to represent parental relationships through the mother (ie. attaching children and father to the mother as the central node of each family), so my network also doesnt represent father-child relationships.
  
-[network_metrics.csv](https://github.com/user-attachments/files/34597819/network_metrics.csv)
-"Node ID","Degree","Betweenness Centrality","Clustering Coefficient","Community"
+--------
+
+<img width="1488" height="1262" alt="force_layout_visualization(1)" src="https://github.com/user-attachments/assets/fd8c4789-97d3-43fb-8926-b0f60346db86" />
+
+-------
+
+[Uploading network_metrics(1).csv…]("Node ID","Degree","Betweenness Centrality","Clustering Coefficient","Community"
 "Mary Thom","4","0.140212","0","2"
 "Margaret Hayes","4","0.230159","0","1"
 "Liza Hayes","3","0.07672","0","1"
@@ -141,12 +146,6 @@ Network Navigator Activity
 "Lucy Clark","1","0","0","4"
 "Henry Clark","1","0","0","6"
 "George Wilson","1","0","0","13"
-"Peter Wilson","1","0","0","7"
-
--------
-
-<img width="1488" height="1262" alt="force_layout_visualization" src="https://github.com/user-attachments/assets/2501b4b9-2850-47ba-b1e2-5d4590e8ca31" />
-
-------
+"Peter Wilson","1","0","0","7")
 
 

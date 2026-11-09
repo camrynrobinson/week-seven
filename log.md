@@ -1,0 +1,3 @@
+- when we encounter artifacts, we are encountering the remnants of a single individual's experience of a single point in time in a single place.
+-  "we do not find evidence of the roman empire, we find evidence of one person's experience of the roman empire" -SG
+  - calculating the average of a whole bunch of these individual experiences reconstructs the broader environment.

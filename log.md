@@ -1,4 +1,4 @@
-[network_metrics(1).csv](https://github.com/user-attachments/files/34597962/network_metrics.1.csv)- when we encounter artifacts, we are encountering the remnants of a single individual's experience of a single point in time in a single place.
+- when we encounter artifacts, we are encountering the remnants of a single individual's experience of a single point in time in a single place.
 -  "we do not find evidence of the roman empire, we find evidence of one person's experience of the roman empire" -SG (approximately)
   - calculating the average of a whole bunch of these individual experiences reconstructs the broader environment.
 
@@ -110,42 +110,7 @@ Network Navigator Activity
     - if i am representing parental and marital relationships, how do i differentiate? can i use weight? i'm not sure how to apply a jaccard index to the family graveyard data. I'm going to weight spousal edges at 1 and parental edges at 2 (under the assumption that the larger value represents a more significant relationship?) and see what that does.
     - my network doesn't represent sibling, aunt/uncle-niece/nephew, or grandparent-grandchild relationships.
     - i have chosen to represent parental relationships through the mother (ie. attaching children and father to the mother as the central node of each family), so my network also doesnt represent father-child relationships.
- 
---------
+  
 
 <img width="1488" height="1262" alt="force_layout_visualization(1)" src="https://github.com/user-attachments/assets/fd8c4789-97d3-43fb-8926-b0f60346db86" />
-
--------
-
-[Uploading network_metrics(1).csv…]("Node ID","Degree","Betweenness Centrality","Clustering Coefficient","Community"
-"Mary Thom","4","0.140212","0","2"
-"Margaret Hayes","4","0.230159","0","1"
-"Liza Hayes","3","0.07672","0","1"
-"Ruth Miller","3","0.07672","0","3"
-"Emma Clark","3","0.082011","0","4"
-"Martha Wilson","3","0.082011","0","5"
-"Robert Thom","2","0.145503","0","2"
-"James Thom","2","0.039683","0","2"
-"Catherine Miller","2","0.145503","0","1"
-"Ben Miller","2","0.103175","0","3"
-"Edward Miller","2","0.126984","0","3"
-"Charles Clark","2","0.079365","0","12"
-"Frank Clark","2","0.047619","0","4"
-"Rose Clark","2","0.026455","0","6"
-"Joseph Wilson","2","0.047619","0","5"
-"Mary Wilson","2","0.079365","0","5"
-"Anna Wilson","2","0.026455","0","7"
-"John Thom","1","0","0","8"
-"Sarah Thom","1","0","0","2"
-"Alice Thom","1","0","0","9"
-"William Hayes","1","0","0","10"
-"Thomas Hayes","1","0","0","1"
-"David Hayes","1","0","0","1"
-"Samuel Miller","1","0","0","11"
-"Hannah Miller","1","0","0","3"
-"Lucy Clark","1","0","0","4"
-"Henry Clark","1","0","0","6"
-"George Wilson","1","0","0","13"
-"Peter Wilson","1","0","0","7")
-
 

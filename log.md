@@ -39,7 +39,7 @@ citations are networks. you can make a whole map out of citation networks. i wou
 - think about history (actual series/network of events which occurred in the past) as a piece of fabric without three dimensional form composed of artifacts and primary sources etc. If we run a whole bunch of simulations that act as the topography for the model, and then we drape the historical fabric over the many iterations of the simulated model, we can see where they line up, and then identify the network relations which led to the aligned results. 
 
 - synchronicity: located in perception, not actuality... car blinkers don't choose to sync up. they sync because we, humans, are looking for synchronicity
-- understanding what a network represents and keeping that in mind while you work on it is, as obvious as it sounds, fundamental to keeping your work focused and effective.
+  
 -----
 
 network terminology:
@@ -62,7 +62,7 @@ network terminology:
     - closeness centrality: inverse of the sum of distances to all other nodes
 - clustering coefficient: measures how interconnected a nodes neighbours are
 - modularity/community detection: identifies clumps of nodes whose pattern of interconnections is more similar to eachother than to the rest of the graph
-- small world: a graph that looks as if all of the connections are random, but there are "long distance" links that connect otherwise unconnected groups. it looks random, but behaves ordered. some argue that small world connections are the necessary element that gives rise to self-organization. **this is how feedback enters a network. the source of self-organizing criticality, providing a mechanism through which we can understand how society operates**
+- small world: a graph that looks as if all of the connections are random, but there are "long distance" links that connect otherwise unconnected groups. it looks random, but behaves ordered. some argue that small world connections are the necessary element that gives rise to self-organization.
     - "Six Degrees of Kevin Bacon"
 - weight:
     - unweighted: relationships are all equally significant
